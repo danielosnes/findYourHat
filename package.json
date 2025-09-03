@@ -1,0 +1,22 @@
+{
+  "name": "findyourhat",
+  "version": "1.0.0",
+  "description": "findYourHat",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielosnes/findYourHat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/danielosnes/findYourHat/issues"
+  },
+  "homepage": "https://github.com/danielosnes/findYourHat#readme"
+}

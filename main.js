@@ -4,7 +4,7 @@ const hat = '^';
 const hole = 'O';
 const fieldCharacter = '░';
 const pathCharacter = '*';
-const PORT = process.env.PORT || 8001;
+const PORT = process.env.PORT || 3000;
 
 
 class Field {
